@@ -1,1 +1,1 @@
-console.log("eee");
+console.log("eee");npm install -g json-server --watch db.json
